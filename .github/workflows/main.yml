@@ -33,7 +33,7 @@ jobs:
       run: |
         # запуск проверки проекта по flake8
         python -m flake8
-    
+
     - name: Test with python
       run: |
       # testing project with python
